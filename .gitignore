@@ -1,3 +1,7 @@
 // Ignore DS
 
 .DS_Store
+
+// Ignore csv
+
+*.csv

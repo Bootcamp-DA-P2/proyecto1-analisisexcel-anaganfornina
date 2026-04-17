@@ -1,6 +1,5 @@
+<img width="1336" height="733" alt="Captura de pantalla 2026-04-17 a las 14 30 57" src="https://github.com/user-attachments/assets/45486729-9dbc-4810-ac8b-170d2b2d8e9b" />
 
-
-<img width="1432" height="781" alt="Captura de pantalla 2026-04-17 a las 11 57 58" src="https://github.com/user-attachments/assets/3184af05-76ed-48a3-8e2b-6fea4b020c26" />
 
 # 📊 Análisis de Datos y Dashboard Interactivo: Kiva Crowdfunding
 
